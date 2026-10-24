@@ -1,0 +1,6 @@
+{
+  "name": "FastBite Delivery",
+  "description": "App de mensajería y comida a domicilio con seguimiento en tiempo real, portal de restaurantes, despacho a repartidores con propina obligatoria del 10% y club de beneficios VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
